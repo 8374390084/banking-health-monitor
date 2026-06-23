@@ -1,0 +1,17 @@
+2026-06-23 16:37:26,936 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.10:5000
+2026-06-23 16:37:26,936 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-23 16:37:26,938 [INFO]  * Restarting with stat
+2026-06-23 16:37:27,444 [WARNING]  * Debugger is active!
+2026-06-23 16:37:27,446 [INFO]  * Debugger PIN: 840-880-188
+2026-06-23 16:38:16,697 [INFO] endpoint=/health status=200 latency=497.54ms
+2026-06-23 16:38:16,719 [INFO] 127.0.0.1 - - [23/Jun/2026 16:38:16] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:38:16,774 [INFO] 127.0.0.1 - - [23/Jun/2026 16:38:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-23 16:39:11,502 [INFO] endpoint=/api/accounts status=200 latency=463.61ms
+2026-06-23 16:39:11,503 [INFO] 127.0.0.1 - - [23/Jun/2026 16:39:11] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:39:34,241 [INFO] endpoint=/api/transactions status=200 latency=205.68ms
+2026-06-23 16:39:34,242 [INFO] 127.0.0.1 - - [23/Jun/2026 16:39:34] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:39:56,990 [INFO] endpoint=/api/trades status=200 latency=485.07ms
+2026-06-23 16:39:56,991 [INFO] 127.0.0.1 - - [23/Jun/2026 16:39:56] "GET /api/trades HTTP/1.1" 200 -
