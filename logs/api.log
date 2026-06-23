@@ -15,3 +15,527 @@
 2026-06-23 16:39:34,242 [INFO] 127.0.0.1 - - [23/Jun/2026 16:39:34] "GET /api/transactions HTTP/1.1" 200 -
 2026-06-23 16:39:56,990 [INFO] endpoint=/api/trades status=200 latency=485.07ms
 2026-06-23 16:39:56,991 [INFO] 127.0.0.1 - - [23/Jun/2026 16:39:56] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:55:11,735 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.10:5000
+2026-06-23 16:55:11,736 [INFO] [33mPress CTRL+C to quit[0m
+2026-06-23 16:55:11,737 [INFO]  * Restarting with stat
+2026-06-23 16:55:12,086 [WARNING]  * Debugger is active!
+2026-06-23 16:55:12,088 [INFO]  * Debugger PIN: 840-880-188
+2026-06-23 16:56:38,203 [INFO] endpoint=/health status=200 latency=366.44ms
+2026-06-23 16:56:38,204 [INFO] 127.0.0.1 - - [23/Jun/2026 16:56:38] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:56:40,491 [INFO] endpoint=/api/accounts status=200 latency=181.2ms
+2026-06-23 16:56:40,492 [INFO] 127.0.0.1 - - [23/Jun/2026 16:56:40] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:56:42,892 [INFO] endpoint=/api/transactions status=200 latency=191.8ms
+2026-06-23 16:56:42,893 [INFO] 127.0.0.1 - - [23/Jun/2026 16:56:42] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:56:45,219 [INFO] endpoint=/api/trades status=200 latency=221.82ms
+2026-06-23 16:56:45,220 [INFO] 127.0.0.1 - - [23/Jun/2026 16:56:45] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:56:57,810 [INFO] endpoint=/health status=200 latency=481.05ms
+2026-06-23 16:56:57,810 [INFO] 127.0.0.1 - - [23/Jun/2026 16:56:57] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:57:00,266 [INFO] endpoint=/api/accounts status=200 latency=365.19ms
+2026-06-23 16:57:00,267 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:00] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:57:02,798 [INFO] endpoint=/api/transactions status=200 latency=431.61ms
+2026-06-23 16:57:02,799 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:02] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:57:05,107 [INFO] endpoint=/api/trades status=200 latency=217.94ms
+2026-06-23 16:57:05,108 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:05] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:57:17,460 [INFO] endpoint=/health status=200 latency=238.74ms
+2026-06-23 16:57:17,461 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:17] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:57:19,790 [INFO] endpoint=/api/accounts status=200 latency=235.24ms
+2026-06-23 16:57:19,790 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:19] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:57:22,168 [INFO] endpoint=/api/transactions status=200 latency=305.46ms
+2026-06-23 16:57:22,168 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:22] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:57:24,565 [INFO] endpoint=/api/trades status=200 latency=276.87ms
+2026-06-23 16:57:24,566 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:24] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:57:37,062 [INFO] endpoint=/health status=200 latency=353.93ms
+2026-06-23 16:57:37,063 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:37] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:57:39,612 [INFO] endpoint=/api/accounts status=200 latency=427.97ms
+2026-06-23 16:57:39,613 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:39] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:57:42,095 [INFO] endpoint=/api/transactions status=200 latency=372.67ms
+2026-06-23 16:57:42,096 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:42] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:57:44,603 [INFO] endpoint=/api/trades status=200 latency=403.89ms
+2026-06-23 16:57:44,604 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:44] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:57:56,969 [INFO] endpoint=/health status=200 latency=260.18ms
+2026-06-23 16:57:56,969 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:56] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:57:59,447 [INFO] endpoint=/api/accounts status=200 latency=374.35ms
+2026-06-23 16:57:59,448 [INFO] 127.0.0.1 - - [23/Jun/2026 16:57:59] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:58:01,773 [INFO] endpoint=/api/transactions status=200 latency=238.36ms
+2026-06-23 16:58:01,773 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:01] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:58:04,044 [INFO] endpoint=/api/trades status=200 latency=156.35ms
+2026-06-23 16:58:04,045 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:04] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:58:16,508 [INFO] endpoint=/health status=200 latency=339.13ms
+2026-06-23 16:58:16,509 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:16] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:58:21,402 [WARNING] endpoint=/api/accounts status=200 latency=2766.29ms
+2026-06-23 16:58:21,403 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:58:23,684 [INFO] endpoint=/api/transactions status=200 latency=192.81ms
+2026-06-23 16:58:23,684 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:23] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:58:26,047 [INFO] endpoint=/api/trades status=200 latency=247.37ms
+2026-06-23 16:58:26,048 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:26] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:58:38,682 [INFO] endpoint=/health status=200 latency=495.64ms
+2026-06-23 16:58:38,683 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:38] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:58:41,153 [INFO] endpoint=/api/accounts status=200 latency=383.37ms
+2026-06-23 16:58:41,153 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:41] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:58:43,730 [INFO] endpoint=/api/transactions status=200 latency=469.22ms
+2026-06-23 16:58:43,731 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:43] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:58:46,048 [INFO] endpoint=/api/trades status=200 latency=203.99ms
+2026-06-23 16:58:46,049 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:46] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:58:58,653 [INFO] endpoint=/health status=200 latency=479.52ms
+2026-06-23 16:58:58,654 [INFO] 127.0.0.1 - - [23/Jun/2026 16:58:58] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:59:01,260 [INFO] endpoint=/api/accounts status=200 latency=490.35ms
+2026-06-23 16:59:01,261 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:01] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:59:03,400 [INFO] endpoint=/api/transactions status=200 latency=50.91ms
+2026-06-23 16:59:03,401 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:03] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:59:07,576 [WARNING] endpoint=/api/trades status=200 latency=2057.19ms
+2026-06-23 16:59:07,577 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:07] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:59:19,863 [INFO] endpoint=/health status=200 latency=166.2ms
+2026-06-23 16:59:19,864 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:19] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:59:22,214 [INFO] endpoint=/api/accounts status=200 latency=252.23ms
+2026-06-23 16:59:22,215 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:22] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:59:24,574 [INFO] endpoint=/api/transactions status=200 latency=278.12ms
+2026-06-23 16:59:24,575 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:24] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:59:27,209 [INFO] endpoint=/api/trades status=200 latency=499.04ms
+2026-06-23 16:59:27,210 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:27] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 16:59:41,994 [WARNING] endpoint=/health status=200 latency=2696.35ms
+2026-06-23 16:59:41,995 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:41] "GET /health HTTP/1.1" 200 -
+2026-06-23 16:59:44,466 [INFO] endpoint=/api/accounts status=200 latency=374.33ms
+2026-06-23 16:59:44,467 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:44] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 16:59:46,686 [INFO] endpoint=/api/transactions status=200 latency=139.57ms
+2026-06-23 16:59:46,686 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:46] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 16:59:49,030 [INFO] endpoint=/api/trades status=200 latency=246.44ms
+2026-06-23 16:59:49,030 [INFO] 127.0.0.1 - - [23/Jun/2026 16:59:49] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:00:01,427 [INFO] endpoint=/health status=200 latency=279.99ms
+2026-06-23 17:00:01,428 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:01] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:00:03,985 [INFO] endpoint=/api/accounts status=200 latency=453.64ms
+2026-06-23 17:00:03,986 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:03] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:00:06,205 [INFO] endpoint=/api/transactions status=200 latency=154.75ms
+2026-06-23 17:00:06,207 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:06] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:00:10,371 [WARNING] endpoint=/api/trades status=200 latency=2090.7ms
+2026-06-23 17:00:10,372 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:10] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:00:22,914 [INFO] endpoint=/health status=200 latency=464.76ms
+2026-06-23 17:00:22,915 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:22] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:00:25,431 [INFO] endpoint=/api/accounts status=200 latency=455.8ms
+2026-06-23 17:00:25,432 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:25] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:00:27,746 [INFO] endpoint=/api/transactions status=200 latency=216.38ms
+2026-06-23 17:00:27,747 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:27] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:00:30,244 [INFO] endpoint=/api/trades status=200 latency=413.36ms
+2026-06-23 17:00:30,245 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:30] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:00:44,195 [WARNING] endpoint=/health status=200 latency=1862.45ms
+2026-06-23 17:00:44,196 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:44] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:00:46,411 [INFO] endpoint=/api/accounts status=200 latency=131.04ms
+2026-06-23 17:00:46,412 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:46] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:00:49,008 [INFO] endpoint=/api/transactions status=200 latency=495.04ms
+2026-06-23 17:00:49,009 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:49] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:00:51,572 [INFO] endpoint=/api/trades status=200 latency=467.54ms
+2026-06-23 17:00:51,573 [INFO] 127.0.0.1 - - [23/Jun/2026 17:00:51] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:01:04,159 [INFO] endpoint=/health status=200 latency=419.17ms
+2026-06-23 17:01:04,164 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:04] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:01:08,596 [WARNING] endpoint=/api/accounts status=200 latency=2161.35ms
+2026-06-23 17:01:08,597 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:08] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:01:11,141 [INFO] endpoint=/api/transactions status=200 latency=459.27ms
+2026-06-23 17:01:11,142 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:11] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:01:13,751 [INFO] endpoint=/api/trades status=200 latency=496.24ms
+2026-06-23 17:01:13,751 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:13] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:01:28,190 [WARNING] endpoint=/health status=200 latency=2324.93ms
+2026-06-23 17:01:28,191 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:28] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:01:30,527 [INFO] endpoint=/api/accounts status=200 latency=205.11ms
+2026-06-23 17:01:30,529 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:30] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:01:32,794 [INFO] endpoint=/api/transactions status=200 latency=157.61ms
+2026-06-23 17:01:32,795 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:32] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:01:35,296 [INFO] endpoint=/api/trades status=200 latency=390.49ms
+2026-06-23 17:01:35,297 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:35] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:01:47,777 [INFO] endpoint=/health status=200 latency=361.63ms
+2026-06-23 17:01:47,778 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:47] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:01:52,657 [WARNING] endpoint=/api/accounts status=200 latency=2781.07ms
+2026-06-23 17:01:52,658 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:52] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:01:54,854 [INFO] endpoint=/api/transactions status=200 latency=92.21ms
+2026-06-23 17:01:54,854 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:54] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:01:57,090 [INFO] endpoint=/api/trades status=200 latency=117.33ms
+2026-06-23 17:01:57,090 [INFO] 127.0.0.1 - - [23/Jun/2026 17:01:57] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:02:09,510 [INFO] endpoint=/health status=200 latency=302.08ms
+2026-06-23 17:02:09,511 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:09] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:02:11,906 [INFO] endpoint=/api/accounts status=200 latency=276.39ms
+2026-06-23 17:02:11,906 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:11] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:02:14,053 [INFO] endpoint=/api/transactions status=200 latency=51.01ms
+2026-06-23 17:02:14,053 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:14] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:02:16,548 [INFO] endpoint=/api/trades status=200 latency=406.83ms
+2026-06-23 17:02:16,548 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:16] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:02:28,881 [INFO] endpoint=/health status=200 latency=174.96ms
+2026-06-23 17:02:28,881 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:28] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:02:31,142 [INFO] endpoint=/api/accounts status=200 latency=83.32ms
+2026-06-23 17:02:31,143 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:31] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:02:33,715 [INFO] endpoint=/api/transactions status=200 latency=436.78ms
+2026-06-23 17:02:33,716 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:33] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:02:35,979 [INFO] endpoint=/api/trades status=200 latency=153.25ms
+2026-06-23 17:02:35,980 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:35] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:02:48,377 [INFO] endpoint=/health status=200 latency=286.25ms
+2026-06-23 17:02:48,378 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:48] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:02:50,602 [INFO] endpoint=/api/accounts status=200 latency=98.67ms
+2026-06-23 17:02:50,603 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:50] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:02:52,930 [INFO] endpoint=/api/transactions status=200 latency=206.72ms
+2026-06-23 17:02:52,931 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:52] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:02:55,419 [INFO] endpoint=/api/trades status=200 latency=366.24ms
+2026-06-23 17:02:55,421 [INFO] 127.0.0.1 - - [23/Jun/2026 17:02:55] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:03:07,641 [INFO] endpoint=/health status=200 latency=122.4ms
+2026-06-23 17:03:07,641 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:07] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:03:09,880 [INFO] endpoint=/api/accounts status=200 latency=140.59ms
+2026-06-23 17:03:09,881 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:09] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:03:12,256 [INFO] endpoint=/api/transactions status=200 latency=269.82ms
+2026-06-23 17:03:12,256 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:12] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:03:14,727 [INFO] endpoint=/api/trades status=200 latency=400.5ms
+2026-06-23 17:03:14,728 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:14] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:03:27,125 [INFO] endpoint=/health status=200 latency=308.55ms
+2026-06-23 17:03:27,126 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:27] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:03:29,421 [INFO] endpoint=/api/accounts status=200 latency=170.96ms
+2026-06-23 17:03:29,422 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:29] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:03:31,962 [INFO] endpoint=/api/transactions status=200 latency=412.1ms
+2026-06-23 17:03:31,962 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:31] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:03:36,333 [WARNING] endpoint=/api/trades status=200 latency=2315.1ms
+2026-06-23 17:03:36,335 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:36] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:03:48,805 [INFO] endpoint=/health status=200 latency=367.22ms
+2026-06-23 17:03:48,806 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:48] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:03:51,354 [INFO] endpoint=/api/accounts status=200 latency=457.87ms
+2026-06-23 17:03:51,354 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:51] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:03:55,103 [WARNING] endpoint=/api/transactions status=200 latency=1658.06ms
+2026-06-23 17:03:55,104 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:55] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:03:59,752 [WARNING] endpoint=/api/trades status=200 latency=2561.12ms
+2026-06-23 17:03:59,753 [INFO] 127.0.0.1 - - [23/Jun/2026 17:03:59] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:04:11,947 [INFO] endpoint=/health status=200 latency=106.93ms
+2026-06-23 17:04:11,948 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:11] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:04:14,136 [INFO] endpoint=/api/accounts status=200 latency=75.15ms
+2026-06-23 17:04:14,137 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:14] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:04:17,779 [WARNING] endpoint=/api/transactions status=200 latency=1553.35ms
+2026-06-23 17:04:17,780 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:17] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:04:22,317 [WARNING] endpoint=/api/trades status=200 latency=2475.6ms
+2026-06-23 17:04:22,318 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:22] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:04:34,860 [INFO] endpoint=/health status=200 latency=442.37ms
+2026-06-23 17:04:34,861 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:34] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:04:37,399 [INFO] endpoint=/api/accounts status=200 latency=487.95ms
+2026-06-23 17:04:37,400 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:37] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:04:39,528 [INFO] endpoint=/api/transactions status=200 latency=61.12ms
+2026-06-23 17:04:39,528 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:39] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:04:41,928 [INFO] endpoint=/api/trades status=200 latency=302.63ms
+2026-06-23 17:04:41,929 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:41] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:04:54,445 [INFO] endpoint=/health status=200 latency=420.56ms
+2026-06-23 17:04:54,446 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:54] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:04:56,747 [INFO] endpoint=/api/accounts status=200 latency=225.53ms
+2026-06-23 17:04:56,748 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:56] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:04:58,911 [INFO] endpoint=/api/transactions status=200 latency=94.01ms
+2026-06-23 17:04:58,912 [INFO] 127.0.0.1 - - [23/Jun/2026 17:04:58] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:05:01,333 [INFO] endpoint=/api/trades status=200 latency=331.89ms
+2026-06-23 17:05:01,333 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:01] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:05:15,813 [WARNING] endpoint=/health status=200 latency=2404.94ms
+2026-06-23 17:05:15,813 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:15] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:05:18,146 [INFO] endpoint=/api/accounts status=200 latency=248.17ms
+2026-06-23 17:05:18,148 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:18] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:05:20,707 [INFO] endpoint=/api/transactions status=200 latency=476.26ms
+2026-06-23 17:05:20,708 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:20] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:05:23,334 [INFO] endpoint=/api/trades status=200 latency=384.7ms
+2026-06-23 17:05:23,336 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:23] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:05:35,863 [INFO] endpoint=/health status=200 latency=435.53ms
+2026-06-23 17:05:35,864 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:35] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:05:38,039 [INFO] endpoint=/api/accounts status=200 latency=87.41ms
+2026-06-23 17:05:38,040 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:38] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:05:40,270 [INFO] endpoint=/api/transactions status=200 latency=121.15ms
+2026-06-23 17:05:40,271 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:40] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:05:42,682 [INFO] endpoint=/api/trades status=200 latency=322.65ms
+2026-06-23 17:05:42,682 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:42] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:05:57,256 [WARNING] endpoint=/health status=200 latency=2521.41ms
+2026-06-23 17:05:57,256 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:57] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:05:59,490 [INFO] endpoint=/api/accounts status=200 latency=152.32ms
+2026-06-23 17:05:59,491 [INFO] 127.0.0.1 - - [23/Jun/2026 17:05:59] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:06:01,871 [INFO] endpoint=/api/transactions status=200 latency=290.24ms
+2026-06-23 17:06:01,872 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:01] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:06:04,406 [INFO] endpoint=/api/trades status=200 latency=440.49ms
+2026-06-23 17:06:04,407 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:04] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:06:19,397 [WARNING] endpoint=/health status=200 latency=2870.18ms
+2026-06-23 17:06:19,398 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:19] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:06:21,612 [INFO] endpoint=/api/accounts status=200 latency=128.58ms
+2026-06-23 17:06:21,612 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:06:23,896 [INFO] endpoint=/api/transactions status=200 latency=153.71ms
+2026-06-23 17:06:23,897 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:23] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:06:26,457 [INFO] endpoint=/api/trades status=200 latency=473.04ms
+2026-06-23 17:06:26,458 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:26] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:06:40,329 [WARNING] endpoint=/health status=200 latency=1770.23ms
+2026-06-23 17:06:40,330 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:40] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:06:42,738 [INFO] endpoint=/api/accounts status=200 latency=314.54ms
+2026-06-23 17:06:42,739 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:42] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:06:44,873 [INFO] endpoint=/api/transactions status=200 latency=69.25ms
+2026-06-23 17:06:44,873 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:44] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:06:47,046 [INFO] endpoint=/api/trades status=200 latency=100.7ms
+2026-06-23 17:06:47,047 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:47] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:06:59,281 [INFO] endpoint=/health status=200 latency=197.14ms
+2026-06-23 17:06:59,282 [INFO] 127.0.0.1 - - [23/Jun/2026 17:06:59] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:07:01,544 [INFO] endpoint=/api/accounts status=200 latency=118.31ms
+2026-06-23 17:07:01,549 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:01] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:07:05,881 [WARNING] endpoint=/api/transactions status=200 latency=2271.19ms
+2026-06-23 17:07:05,882 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:05] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:07:08,203 [INFO] endpoint=/api/trades status=200 latency=172.38ms
+2026-06-23 17:07:08,204 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:08] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:07:20,713 [INFO] endpoint=/health status=200 latency=389.17ms
+2026-06-23 17:07:20,713 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:20] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:07:23,278 [INFO] endpoint=/api/accounts status=200 latency=483.35ms
+2026-06-23 17:07:23,279 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:23] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:07:25,707 [INFO] endpoint=/api/transactions status=200 latency=382.46ms
+2026-06-23 17:07:25,708 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:25] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:07:28,285 [INFO] endpoint=/api/trades status=200 latency=464.66ms
+2026-06-23 17:07:28,286 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:28] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:07:40,791 [INFO] endpoint=/health status=200 latency=419.15ms
+2026-06-23 17:07:40,791 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:40] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:07:43,051 [INFO] endpoint=/api/accounts status=200 latency=178.66ms
+2026-06-23 17:07:43,051 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:43] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:07:45,286 [INFO] endpoint=/api/transactions status=200 latency=164.87ms
+2026-06-23 17:07:45,287 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:45] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:07:47,840 [INFO] endpoint=/api/trades status=200 latency=459.62ms
+2026-06-23 17:07:47,841 [INFO] 127.0.0.1 - - [23/Jun/2026 17:07:47] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:08:00,351 [INFO] endpoint=/health status=200 latency=419.27ms
+2026-06-23 17:08:00,352 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:00] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:08:02,729 [INFO] endpoint=/api/accounts status=200 latency=266.49ms
+2026-06-23 17:08:02,730 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:02] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:08:05,019 [INFO] endpoint=/api/transactions status=200 latency=215.92ms
+2026-06-23 17:08:05,020 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:05] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:08:07,264 [INFO] endpoint=/api/trades status=200 latency=147.47ms
+2026-06-23 17:08:07,265 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:07] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:08:19,459 [INFO] endpoint=/health status=200 latency=74.58ms
+2026-06-23 17:08:19,459 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:19] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:08:21,789 [INFO] endpoint=/api/accounts status=200 latency=215.67ms
+2026-06-23 17:08:21,790 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:08:24,223 [INFO] endpoint=/api/transactions status=200 latency=330.12ms
+2026-06-23 17:08:24,224 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:24] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:08:26,770 [INFO] endpoint=/api/trades status=200 latency=469.33ms
+2026-06-23 17:08:26,771 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:26] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:08:39,084 [INFO] endpoint=/health status=200 latency=221.0ms
+2026-06-23 17:08:39,085 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:39] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:08:41,444 [INFO] endpoint=/api/accounts status=200 latency=267.26ms
+2026-06-23 17:08:41,445 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:41] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:08:43,671 [INFO] endpoint=/api/transactions status=200 latency=125.32ms
+2026-06-23 17:08:43,671 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:43] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:08:47,368 [WARNING] endpoint=/api/trades status=200 latency=1597.21ms
+2026-06-23 17:08:47,368 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:47] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:08:59,665 [INFO] endpoint=/health status=200 latency=219.1ms
+2026-06-23 17:08:59,665 [INFO] 127.0.0.1 - - [23/Jun/2026 17:08:59] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:09:02,203 [INFO] endpoint=/api/accounts status=200 latency=453.08ms
+2026-06-23 17:09:02,203 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:02] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:09:04,542 [INFO] endpoint=/api/transactions status=200 latency=258.78ms
+2026-06-23 17:09:04,543 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:04] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:09:07,120 [INFO] endpoint=/api/trades status=200 latency=460.35ms
+2026-06-23 17:09:07,121 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:07] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:09:19,645 [INFO] endpoint=/health status=200 latency=394.73ms
+2026-06-23 17:09:19,645 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:19] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:09:21,856 [INFO] endpoint=/api/accounts status=200 latency=140.29ms
+2026-06-23 17:09:21,857 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:09:24,410 [INFO] endpoint=/api/transactions status=200 latency=480.25ms
+2026-06-23 17:09:24,410 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:24] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:09:26,783 [INFO] endpoint=/api/trades status=200 latency=278.45ms
+2026-06-23 17:09:26,784 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:26] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:09:41,101 [WARNING] endpoint=/health status=200 latency=2248.53ms
+2026-06-23 17:09:41,102 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:41] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:09:43,545 [INFO] endpoint=/api/accounts status=200 latency=325.44ms
+2026-06-23 17:09:43,546 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:43] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:09:46,100 [INFO] endpoint=/api/transactions status=200 latency=469.59ms
+2026-06-23 17:09:46,101 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:46] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:09:48,302 [INFO] endpoint=/api/trades status=200 latency=104.93ms
+2026-06-23 17:09:48,305 [INFO] 127.0.0.1 - - [23/Jun/2026 17:09:48] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:10:00,447 [INFO] endpoint=/health status=200 latency=66.97ms
+2026-06-23 17:10:00,448 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:00] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:10:02,997 [INFO] endpoint=/api/accounts status=200 latency=433.56ms
+2026-06-23 17:10:02,997 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:02] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:10:05,231 [INFO] endpoint=/api/transactions status=200 latency=108.59ms
+2026-06-23 17:10:05,232 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:05] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:10:07,482 [INFO] endpoint=/api/trades status=200 latency=138.35ms
+2026-06-23 17:10:07,486 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:07] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:10:19,825 [INFO] endpoint=/health status=200 latency=203.06ms
+2026-06-23 17:10:19,825 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:19] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:10:22,300 [INFO] endpoint=/api/accounts status=200 latency=383.74ms
+2026-06-23 17:10:22,301 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:22] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:10:24,860 [INFO] endpoint=/api/transactions status=200 latency=459.71ms
+2026-06-23 17:10:24,861 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:24] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:10:27,082 [INFO] endpoint=/api/trades status=200 latency=134.15ms
+2026-06-23 17:10:27,083 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:27] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:10:39,337 [INFO] endpoint=/health status=200 latency=153.18ms
+2026-06-23 17:10:39,338 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:39] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:10:41,857 [INFO] endpoint=/api/accounts status=200 latency=419.72ms
+2026-06-23 17:10:41,858 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:41] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:10:44,179 [INFO] endpoint=/api/transactions status=200 latency=232.24ms
+2026-06-23 17:10:44,180 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:44] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:10:46,695 [INFO] endpoint=/api/trades status=200 latency=428.54ms
+2026-06-23 17:10:46,695 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:46] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:10:59,100 [INFO] endpoint=/health status=200 latency=254.04ms
+2026-06-23 17:10:59,100 [INFO] 127.0.0.1 - - [23/Jun/2026 17:10:59] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:11:01,521 [INFO] endpoint=/api/accounts status=200 latency=320.49ms
+2026-06-23 17:11:01,522 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:01] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:11:03,959 [INFO] endpoint=/api/transactions status=200 latency=345.38ms
+2026-06-23 17:11:03,959 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:03] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:11:06,410 [INFO] endpoint=/api/trades status=200 latency=384.2ms
+2026-06-23 17:11:06,412 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:06] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:11:18,715 [INFO] endpoint=/health status=200 latency=199.45ms
+2026-06-23 17:11:18,716 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:18] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:11:21,264 [INFO] endpoint=/api/accounts status=200 latency=450.34ms
+2026-06-23 17:11:21,265 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:11:23,788 [INFO] endpoint=/api/transactions status=200 latency=427.57ms
+2026-06-23 17:11:23,788 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:23] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:11:26,032 [INFO] endpoint=/api/trades status=200 latency=154.06ms
+2026-06-23 17:11:26,033 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:26] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:11:38,337 [INFO] endpoint=/health status=200 latency=211.0ms
+2026-06-23 17:11:38,337 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:38] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:11:40,781 [INFO] endpoint=/api/accounts status=200 latency=347.52ms
+2026-06-23 17:11:40,786 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:40] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:11:43,023 [INFO] endpoint=/api/transactions status=200 latency=130.58ms
+2026-06-23 17:11:43,024 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:43] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:11:45,223 [INFO] endpoint=/api/trades status=200 latency=115.12ms
+2026-06-23 17:11:45,224 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:45] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:11:57,728 [INFO] endpoint=/health status=200 latency=373.41ms
+2026-06-23 17:11:57,729 [INFO] 127.0.0.1 - - [23/Jun/2026 17:11:57] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:12:00,255 [INFO] endpoint=/api/accounts status=200 latency=422.46ms
+2026-06-23 17:12:00,255 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:00] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:12:02,488 [INFO] endpoint=/api/transactions status=200 latency=118.11ms
+2026-06-23 17:12:02,489 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:02] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:12:04,865 [INFO] endpoint=/api/trades status=200 latency=279.76ms
+2026-06-23 17:12:04,866 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:04] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:12:17,324 [INFO] endpoint=/health status=200 latency=369.12ms
+2026-06-23 17:12:17,325 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:17] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:12:21,210 [WARNING] endpoint=/api/accounts status=200 latency=1787.1ms
+2026-06-23 17:12:21,211 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:21] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:12:23,527 [INFO] endpoint=/api/transactions status=200 latency=234.08ms
+2026-06-23 17:12:23,528 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:23] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:12:28,139 [WARNING] endpoint=/api/trades status=200 latency=2503.76ms
+2026-06-23 17:12:28,139 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:28] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:12:40,434 [INFO] endpoint=/health status=200 latency=181.24ms
+2026-06-23 17:12:40,435 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:40] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:12:43,006 [INFO] endpoint=/api/accounts status=500 latency=484.68ms
+2026-06-23 17:12:43,007 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:43] "[35m[1mGET /api/accounts HTTP/1.1[0m" 500 -
+2026-06-23 17:12:45,584 [INFO] endpoint=/api/transactions status=200 latency=478.03ms
+2026-06-23 17:12:45,585 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:45] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:12:49,487 [WARNING] endpoint=/api/trades status=200 latency=1816.25ms
+2026-06-23 17:12:49,487 [INFO] 127.0.0.1 - - [23/Jun/2026 17:12:49] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:13:01,945 [INFO] endpoint=/health status=200 latency=318.31ms
+2026-06-23 17:13:01,945 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:01] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:13:04,295 [INFO] endpoint=/api/accounts status=200 latency=227.8ms
+2026-06-23 17:13:04,296 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:04] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:13:06,672 [INFO] endpoint=/api/transactions status=200 latency=229.4ms
+2026-06-23 17:13:06,673 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:06] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:13:08,966 [INFO] endpoint=/api/trades status=200 latency=152.09ms
+2026-06-23 17:13:08,967 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:08] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:13:21,659 [INFO] endpoint=/health status=200 latency=456.01ms
+2026-06-23 17:13:21,660 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:21] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:13:24,236 [INFO] endpoint=/api/accounts status=200 latency=437.45ms
+2026-06-23 17:13:24,237 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:24] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:13:26,561 [INFO] endpoint=/api/transactions status=200 latency=217.47ms
+2026-06-23 17:13:26,561 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:26] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:13:28,833 [INFO] endpoint=/api/trades status=200 latency=182.72ms
+2026-06-23 17:13:28,834 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:28] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:13:41,232 [INFO] endpoint=/health status=200 latency=289.02ms
+2026-06-23 17:13:41,232 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:41] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:13:43,685 [INFO] endpoint=/api/accounts status=200 latency=348.31ms
+2026-06-23 17:13:43,686 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:43] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:13:46,215 [INFO] endpoint=/api/transactions status=200 latency=416.15ms
+2026-06-23 17:13:46,215 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:46] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:13:48,834 [INFO] endpoint=/api/trades status=200 latency=497.27ms
+2026-06-23 17:13:48,835 [INFO] 127.0.0.1 - - [23/Jun/2026 17:13:48] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:14:01,083 [INFO] endpoint=/health status=200 latency=146.57ms
+2026-06-23 17:14:01,084 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:01] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:14:03,609 [INFO] endpoint=/api/accounts status=200 latency=447.48ms
+2026-06-23 17:14:03,609 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:03] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:14:05,762 [INFO] endpoint=/api/transactions status=200 latency=73.84ms
+2026-06-23 17:14:05,762 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:05] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:14:08,062 [INFO] endpoint=/api/trades status=200 latency=186.1ms
+2026-06-23 17:14:08,063 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:08] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:14:20,652 [INFO] endpoint=/health status=200 latency=474.65ms
+2026-06-23 17:14:20,652 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:20] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:14:23,145 [INFO] endpoint=/api/accounts status=200 latency=391.86ms
+2026-06-23 17:14:23,146 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:23] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:14:27,255 [WARNING] endpoint=/api/transactions status=200 latency=2001.96ms
+2026-06-23 17:14:27,255 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:27] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:14:29,520 [INFO] endpoint=/api/trades status=200 latency=183.04ms
+2026-06-23 17:14:29,521 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:29] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:14:41,807 [INFO] endpoint=/health status=200 latency=159.42ms
+2026-06-23 17:14:41,808 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:41] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:14:44,067 [INFO] endpoint=/api/accounts status=200 latency=173.4ms
+2026-06-23 17:14:44,067 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:44] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:14:46,251 [INFO] endpoint=/api/transactions status=200 latency=80.53ms
+2026-06-23 17:14:46,252 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:46] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:14:48,808 [INFO] endpoint=/api/trades status=200 latency=454.2ms
+2026-06-23 17:14:48,809 [INFO] 127.0.0.1 - - [23/Jun/2026 17:14:48] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:15:00,962 [INFO] endpoint=/health status=200 latency=50.86ms
+2026-06-23 17:15:00,963 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:00] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:15:05,985 [WARNING] endpoint=/api/accounts status=200 latency=2929.97ms
+2026-06-23 17:15:05,985 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:05] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:15:08,174 [INFO] endpoint=/api/transactions status=200 latency=88.16ms
+2026-06-23 17:15:08,174 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:08] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:15:10,461 [INFO] endpoint=/api/trades status=200 latency=167.89ms
+2026-06-23 17:15:10,462 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:10] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:15:22,934 [INFO] endpoint=/health status=200 latency=370.01ms
+2026-06-23 17:15:22,935 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:22] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:15:25,466 [INFO] endpoint=/api/accounts status=200 latency=443.68ms
+2026-06-23 17:15:25,467 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:25] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:15:27,924 [INFO] endpoint=/api/transactions status=200 latency=371.39ms
+2026-06-23 17:15:27,925 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:27] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:15:30,362 [INFO] endpoint=/api/trades status=200 latency=332.1ms
+2026-06-23 17:15:30,363 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:30] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:15:42,558 [INFO] endpoint=/health status=200 latency=83.66ms
+2026-06-23 17:15:42,559 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:42] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:15:44,757 [INFO] endpoint=/api/accounts status=200 latency=115.44ms
+2026-06-23 17:15:44,758 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:44] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:15:47,200 [INFO] endpoint=/api/transactions status=200 latency=346.2ms
+2026-06-23 17:15:47,201 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:47] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:15:49,549 [INFO] endpoint=/api/trades status=200 latency=242.16ms
+2026-06-23 17:15:49,549 [INFO] 127.0.0.1 - - [23/Jun/2026 17:15:49] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:16:03,683 [WARNING] endpoint=/health status=200 latency=2047.69ms
+2026-06-23 17:16:03,683 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:03] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:16:06,178 [INFO] endpoint=/api/accounts status=200 latency=407.75ms
+2026-06-23 17:16:06,179 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:06] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:16:08,674 [INFO] endpoint=/api/transactions status=200 latency=430.16ms
+2026-06-23 17:16:08,674 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:08] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:16:11,106 [INFO] endpoint=/api/trades status=200 latency=341.94ms
+2026-06-23 17:16:11,106 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:11] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:16:23,586 [INFO] endpoint=/health status=200 latency=379.71ms
+2026-06-23 17:16:23,587 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:23] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:16:26,057 [INFO] endpoint=/api/accounts status=200 latency=373.0ms
+2026-06-23 17:16:26,058 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:26] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:16:28,231 [INFO] endpoint=/api/transactions status=200 latency=89.05ms
+2026-06-23 17:16:28,231 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:28] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:16:30,503 [INFO] endpoint=/api/trades status=200 latency=177.38ms
+2026-06-23 17:16:30,504 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:30] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:16:43,010 [INFO] endpoint=/health status=200 latency=441.56ms
+2026-06-23 17:16:43,012 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:43] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:16:45,231 [INFO] endpoint=/api/accounts status=200 latency=116.83ms
+2026-06-23 17:16:45,232 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:45] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:16:47,575 [INFO] endpoint=/api/transactions status=200 latency=244.51ms
+2026-06-23 17:16:47,576 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:47] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:16:49,910 [INFO] endpoint=/api/trades status=200 latency=241.95ms
+2026-06-23 17:16:49,911 [INFO] 127.0.0.1 - - [23/Jun/2026 17:16:49] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:17:02,531 [INFO] endpoint=/health status=200 latency=483.95ms
+2026-06-23 17:17:02,531 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:02] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:17:04,962 [INFO] endpoint=/api/accounts status=200 latency=354.75ms
+2026-06-23 17:17:04,963 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:04] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:17:07,234 [INFO] endpoint=/api/transactions status=200 latency=198.81ms
+2026-06-23 17:17:07,235 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:07] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:17:09,598 [INFO] endpoint=/api/trades status=200 latency=256.25ms
+2026-06-23 17:17:09,599 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:09] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:17:22,015 [INFO] endpoint=/health status=200 latency=270.33ms
+2026-06-23 17:17:22,016 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:22] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:17:24,550 [INFO] endpoint=/api/accounts status=200 latency=452.41ms
+2026-06-23 17:17:24,551 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:24] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:17:27,039 [INFO] endpoint=/api/transactions status=200 latency=385.07ms
+2026-06-23 17:17:27,039 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:27] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:17:29,558 [INFO] endpoint=/api/trades status=200 latency=394.88ms
+2026-06-23 17:17:29,559 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:29] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:17:41,948 [INFO] endpoint=/health status=200 latency=298.83ms
+2026-06-23 17:17:41,949 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:41] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:17:44,538 [INFO] endpoint=/api/accounts status=200 latency=497.06ms
+2026-06-23 17:17:44,539 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:44] "GET /api/accounts HTTP/1.1" 200 -
+2026-06-23 17:17:47,096 [INFO] endpoint=/api/transactions status=200 latency=495.29ms
+2026-06-23 17:17:47,096 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:47] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:17:49,433 [INFO] endpoint=/api/trades status=200 latency=230.08ms
+2026-06-23 17:17:49,434 [INFO] 127.0.0.1 - - [23/Jun/2026 17:17:49] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:18:01,699 [INFO] endpoint=/health status=200 latency=172.89ms
+2026-06-23 17:18:01,699 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:01] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:18:04,132 [INFO] endpoint=/api/accounts status=500 latency=340.84ms
+2026-06-23 17:18:04,133 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:04] "[35m[1mGET /api/accounts HTTP/1.1[0m" 500 -
+2026-06-23 17:18:06,339 [INFO] endpoint=/api/transactions status=200 latency=80.5ms
+2026-06-23 17:18:06,340 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:06] "GET /api/transactions HTTP/1.1" 200 -
+2026-06-23 17:18:08,524 [INFO] endpoint=/api/trades status=200 latency=84.87ms
+2026-06-23 17:18:08,524 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:08] "GET /api/trades HTTP/1.1" 200 -
+2026-06-23 17:18:20,901 [INFO] endpoint=/health status=200 latency=267.68ms
+2026-06-23 17:18:20,902 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:20] "GET /health HTTP/1.1" 200 -
+2026-06-23 17:18:23,358 [INFO] endpoint=/api/accounts status=200 latency=356.69ms
+2026-06-23 17:18:23,359 [INFO] 127.0.0.1 - - [23/Jun/2026 17:18:23] "GET /api/accounts HTTP/1.1" 200 -
